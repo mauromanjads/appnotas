@@ -6,3 +6,4 @@ lxml
 python-dateutil
 SQLAlchemy>=2.0
 python-jose>=3.3.0
+passlib[bcrypt]>=1.7.4
