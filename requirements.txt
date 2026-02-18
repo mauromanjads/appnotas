@@ -4,3 +4,5 @@ pydantic
 jinja2
 lxml
 python-dateutil
+SQLAlchemy>=2.0
+
